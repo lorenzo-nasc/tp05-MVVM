@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Filmes Favoritos</string>
+    <string name="title_main">Meus Filmes Favoritos</string>
+    <string name="add">Adicionar</string>
+    <string name="empty_list">Nenhum filme ainda.\nToque em “Adicionar” para começar!</string>
+    <string name="new_movie">Novo filme</string>
+    <string name="edit_movie">Editar filme</string>
+    <string name="hint_name">Nome do filme</string>
+    <string name="hint_photo">URL da foto (pôster)</string>
+    <string name="pick_gallery">Escolher da galeria</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="undo">Desfazer</string>
+    <string name="delete">Excluir</string>
+    <string name="poster">Pôster do filme</string>
+    <string name="error_name">Informe o nome do filme</string>
+    <string name="movie_removed">“%1$s” removido</string>
+    <string name="rating_value">%1$.1f / 10</string>
+    <string name="rating_label">Nota: %1$.1f / 10</string>
+    <plurals name="summary">
+        <item quantity="one">%1$d filme · média %2$.1f</item>
+        <item quantity="other">%1$d filmes · média %2$.1f</item>
+    </plurals>
+</resources>

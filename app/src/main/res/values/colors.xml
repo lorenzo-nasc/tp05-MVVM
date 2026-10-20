@@ -1,0 +1,6 @@
+<resources>
+    <color name="primary">#B3261E</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="star">#FFC107</color>
+    <color name="placeholder_tint">#9E9E9E</color>
+</resources>
